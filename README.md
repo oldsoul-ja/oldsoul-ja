@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oldsoul-ja
+- 👀 I’m interested in all things automation, from my phone and computer to my home and work life. Learning, building, and tinkering with them is like my adult fidget spinner. It just gives me something to mess with, just because. But from this came my interest in coding and what development I might do to further extend the capabilities of my automation.
+- 🌱 I’m currently learning to use homebrew, Hammerspoon, and similar dev-related tools on my Mac mini M1. There's a whole category of automation and fun things to do that I've never taken the time to learn and use.pm.me
+- 📫 How to reach me: oldsould-ja@pm.me
